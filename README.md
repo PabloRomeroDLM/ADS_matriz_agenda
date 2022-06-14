@@ -11,7 +11,7 @@ Exercício de Matrizes - Agenda
        - Pedir o bairro
        - Pedir o telefone
        - guardar as respostas dentro da matriz
-      - Fim Enquanto
+     - Fim Enquanto
        - Enquanto l < 10 Faca
         - Enquanto l nao for nulo e J < l Faca
         -  Imprimir o valor da matriz
