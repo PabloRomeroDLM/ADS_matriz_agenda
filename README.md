@@ -2,8 +2,8 @@
 Exercício de Matrizes - Agenda
 #
    - Inicio
-      - matriz [10][5]
-      - Enquanto i < matriz Faca
+     - matriz [10][5]
+     - Enquanto i < matriz Faca
        - x = 0
        - Pedir o nome
        - Pedir o endereco
