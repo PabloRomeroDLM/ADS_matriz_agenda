@@ -1,7 +1,7 @@
 # ADS_matriz_agenda
 Exercício de Matrizes - Agenda
 #
-    - Inicio
+   - Inicio
       - matriz [10][5]
       - Enquanto i < matriz Faca
        - x = 0
